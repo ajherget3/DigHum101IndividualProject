@@ -1,3 +1,1 @@
-# DigHum101IndividualProject
-
-## What Makes Music Popular?
+# What Makes Music Popular?
